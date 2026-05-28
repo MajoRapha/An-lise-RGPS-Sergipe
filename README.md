@@ -18,10 +18,14 @@ Avaliar como se comportaram:
 - o impacto da pandemia e da contrarreforma da previdência (EC 103/2019).
 
 ---
----
+
 ## 📂 Estrutura do Repositório
+
 ---
 
+## 📁 Estrutura do Repositório
+
+```text
 📁 rgps-sergipe-analise/
 ├── 📄 README.md
 ├── 📄 requirements.txt
@@ -37,7 +41,7 @@ Avaliar como se comportaram:
     ├── grafico_beneficios.png
     ├── nuvem_indeferimentos.png
     └── ...
-
+```
 
 
 ### 📁 Pastas
