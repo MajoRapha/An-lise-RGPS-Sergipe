@@ -151,14 +151,5 @@ Sinta-se livre para usar, adaptar e compartilhar.
 
 ---
 
-# 📦 Arquivo: `requirements.txt`
 
-```txt
-pandas
-numpy
-matplotlib
-seaborn
-wordcloud
-jupyter
-```
 
