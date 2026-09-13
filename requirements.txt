@@ -1,10 +1,6 @@
----
-
-```txt
 pandas
 numpy
 matplotlib
 seaborn
 wordcloud
 jupyter
-```
